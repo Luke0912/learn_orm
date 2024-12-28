@@ -1,0 +1,1 @@
+ALTER TABLE `users_table` ADD `roll_number` varchar(15);
